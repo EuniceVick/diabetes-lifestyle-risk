@@ -8,8 +8,7 @@ Includes **EDA, cross‑validated modeling, probability calibration, and SHAP ex
 ## 🚀 Relevance
 Diabetes is one of the fastest-growing global health challenges, with lifestyle playing a major role in both onset and management.  
 Traditional approaches rely heavily on clinical biomarkers and invasive tests, leaving gaps for **early, accessible, and low-cost risk assessment**.  
-This project bridges that gap by leveraging **everyday lifestyle indicators** — such as sleep, BMI, stress, and physical activity — to predict diabetes risk.  
-By focusing on factors within personal control, the work aligns with **preventive healthcare** and empowers individuals to take proactive steps.
+This project bridges that gap by utilizing **everyday lifestyle indicators** — such as sleep, BMI, stress, and physical activity; to predict diabetes risk. It aligns with **preventive healthcare** and empowers individuals to take proactive steps, by focusing on factors within personal control.
 
 ## 🌍 Impact
 - **Healthcare Support**: Provides clinicians and health programs with an inexpensive tool for population-level screening.  
